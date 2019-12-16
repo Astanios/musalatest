@@ -1,0 +1,19 @@
+{
+  "name": "musalatest",
+  "version": "1.0.0",
+  "description": "Musala's test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astanios/musalatest.git"
+  },
+  "author": "Luis Castillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Astanios/musalatest/issues"
+  },
+  "homepage": "https://github.com/Astanios/musalatest#readme"
+}
