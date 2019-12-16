@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Astanios/musalatest/issues"
   },
-  "homepage": "https://github.com/Astanios/musalatest#readme"
+  "homepage": "https://github.com/Astanios/musalatest#readme",
+  "dependencies": {
+    "mongodb": "^3.4.0"
+  }
 }
